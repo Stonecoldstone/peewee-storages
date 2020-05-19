@@ -1,3 +1,8 @@
+.. image:: https://raw.githubusercontent.com/python-folks/peewee-storages/master/docs/static/logo.png
+    :alt: Peewee-Storages
+    :width: 100%
+
+
 .. image:: https://img.shields.io/pypi/v/peewee-storages.svg
     :target: https://pypi.org/project/peewee-storages/
     :alt: PyPI Version

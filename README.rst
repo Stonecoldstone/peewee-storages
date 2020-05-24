@@ -1,5 +1,6 @@
 .. image:: https://raw.githubusercontent.com/python-folks/peewee-storages/master/docs/static/logo.png
     :alt: Peewee-Storages
+    :align: center
     :width: 100%
 
 
